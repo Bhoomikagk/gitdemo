@@ -1,3 +1,3 @@
 # gitdemo
 practicing git
-author: bhoomika
+author: bhoomika G K
